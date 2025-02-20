@@ -1,0 +1,5 @@
+#include 
+int população = 10,000
+float área = 4,75
+int pib = 2.989,9
+int número de pontos turisticos = 10
